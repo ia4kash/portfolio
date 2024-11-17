@@ -631,9 +631,20 @@ input, select, textarea {
 			font-weight: 900;
 		}
 
+		.icon.solid.large:before {
+			font-size: medium;
+		}
+
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+		
+		.icon.brands.large:before {
+			font-size: medium;
+		}
+		.ph-thin{
+			font-size: 50px;
+		  }
 
 /* Image */
 
@@ -1140,9 +1151,12 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
-			background-size: auto, 256px 256px;
-			background-position: center, center;
-			background-repeat: no-repeat, repeat;
+			background-size: auto,
+ 256px 256px;
+			background-position: center,
+ center;
+			background-repeat: no-repeat,
+ repeat;
 			z-index: 2;
 		}
 
