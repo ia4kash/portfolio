@@ -2,8 +2,8 @@ const works = [{
     "title": "Tajneed UAE",
     "description": "Tajneed is the official recruitment application for the United Arab Emirates Armed Forces, designed to simplify and streamline the recruitment process for individuals interested in joining the UAE military.",
     "web": "https://tajneed.gov.ae/",
-    "iOS": "https://play.google.com/store/apps/details?id=ae.mod.tajneed",
-    "android": "https://apps.apple.com/ae/app/tajneed/id6517355120",
+    "iOS": "https://apps.apple.com/ae/app/tajneed/id6517355120",
+    "android": "https://play.google.com/store/apps/details?id=ae.mod.tajneed",
 },
 {
     "title": "IL Oneforce",
